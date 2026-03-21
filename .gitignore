@@ -1,0 +1,10 @@
+# Ignore OpenClaw config files and secrets
+*.json
+*.json.bak
+*.key
+*.token
+secrets/
+.env
+.env.*
+node_modules/
+.DS_Store
