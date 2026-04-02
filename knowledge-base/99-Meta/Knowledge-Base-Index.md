@@ -1,37 +1,41 @@
-# 团队知识库索引（2026-03-25）
+# 团队知识库索引（职责调整说明）
 
-> 仅覆盖 `~/.openclaw/workspace/knowledge-base/` 公共层；不包含 `01-Projects/` 项目目录。
+> 本页原先承担了部分索引职责。自 2026-04-02 起，团队知识库总导航统一收口到：
+>
+> - [[99-Meta/Index]]
+>
+> 本页不再作为唯一总入口使用，当前保留为“过渡说明页 / 历史索引稿”，避免旧链接立即失效。
 
-## 目录层
-- `00-Inbox/`：临时收件 / Daily
-- `02-Areas/`：流程、系统、技术、业务
-- `03-Resources/`：资源、协议、参考资料
-- `30-evergreen/`：长期有效内容
-- `99-Meta/`：索引、元信息、盘点
+---
 
-## 当前已见公共文件
-### 00-Inbox
-- `Daily-2026-03-10.md`
-- `Daily-2026-03-13.md`
+## 当前角色
+本页当前不再承担总入口职责，主要作为：
+- 历史索引稿保留
+- 过渡跳转说明
+- 索引职责调整记录
 
-### 03-Resources
-- `Agent-协作通信协议.md`
-- `Agents.md`
-- `discord-bot-mention-and-memory-cron-lessons-2026-03-18.md`
-- `东方财富Skill-SOP.md`
-- `调研黄页.md`
+---
 
-### 30-evergreen
-- `README.md`
+## 现在应去哪里
 
-### 99-Meta
-- `Agent-Task-Tracking-System.md`
-- `Index.md`
-- `Skill-Inventory.md`
-- `调度安排.md`
+### 想看总导航
+→ [[99-Meta/Index]]
 
-## 下一步整理原则
-1. 不动 `01-Projects/`
-2. 索引优先，迁移次之
-3. 公共规则 / SOP 优先归到 `02-Areas/` 或 `99-Meta/`
-4. 资源参考保持在 `03-Resources/`
+### 想看当前状态盘点
+→ [[99-Meta/Knowledge-Base-Current-State]]
+
+### 想看各层入口
+- 项目层 → [[01-Projects/README]]
+- Areas 层 → [[02-Areas/README]]
+- Systems 层 → [[02-Areas/Systems/README]]
+- Notes 层 → [[03-Notes/README]]
+- Resources 层 → [[03-Resources/README]]
+
+---
+
+## 说明
+本页后续可根据需要二选一处理：
+1. 合并进 `Index.md`
+2. 转为更明确的“维护说明页”
+
+在正式删改前，先保留此页以减少旧链接断裂。
