@@ -36,16 +36,29 @@
 
 ### 4. Spawn 机制主线
 - [[01-Constitution/Spawn-README]]
-- `Spawn-Core/`
-- `Spawn-SOP/`
-- `Spawn-Templates/`
-- `Spawn-Research/`
-- `Spawn-Retros/`
-- `Spawn-Archive/`
+- [[01-Constitution/Spawn-Core/README|Spawn-Core]]（机制核心：总说明 / 启动条件 / 任务拆解规则）
+- [[01-Constitution/Spawn-SOP/README|Spawn-SOP]]（执行流程 / 决策树 / AGENTS改造清单）
+- [[01-Constitution/Spawn-Templates/README|Spawn-Templates]]（子任务卡模板 / 主控收口模板 / AGENTS灌注样例）
+- [[01-Constitution/Spawn-Research/README|Spawn-Research]]（外部理论输入 / 调研结果 / 白名单）
+- [[01-Constitution/Spawn-Retros/README|Spawn-Retros]]（第一阶段复盘 / token 控制 / 审计意见）
+- [[01-Constitution/Spawn-Archive/README|Spawn-Archive]]（历史草稿 / 废弃候选件）
 
 ### 5. 审计 / 试跑材料
-- `Anna对团队宪法总则落地与维护试跑卡的审计意见_v1_2026-04-01.md`
-- `团队宪法总则的落地与维护_固定主任务卡首轮试跑稿_待Anna审计_v1_2026-04-01.md`
+- [[01-Constitution/Anna对团队宪法总则落地与维护试跑卡的审计意见_v1_2026-04-01]]
+- [[01-Constitution/团队宪法总则的落地与维护_固定主任务卡首轮试跑稿_待Anna审计_v1_2026-04-01]]
+- [[01-Constitution/给Curie的交接文档_Spawn机制目录维护与后续动作_v1_2026-04-02]]
+- [[01-Constitution/第一批该收口的Spawn文件与目录清单_v1_2026-04-02]]
+
+### 6. 一致性治理 / workspace 管理
+- [[01-Constitution/一致性治理原则正文草案_v1_2026-04-04]]
+- [[01-Constitution/2026-04-04-一致性治理原则-离自动化还差什么-建议文档-v1]]
+- [[01-Constitution/第一批适合纳入一致性治理法的宪法条目清单_v1_2026-04-04]]
+- [[01-Constitution/团队文档语言与术语口径_v1_2026-04-03]]
+- [[01-Constitution/团队知识库根命名与项目边界统一建议卡_v1_2026-04-06]]
+- [[01-Constitution/workspace根目录清理规则_v1_2026-04-06]]
+- [[01-Constitution/workspace根目录迁移执行卡_v1_2026-04-06]]
+- [[01-Constitution/富贵财经自动化链路与评估审计机制_v1_2026-04-03]]
+- [[01-Constitution/KB自动检查记录模板]]（个人知识库维护检查记录模板，适用于各 Agent 成员定期自检）
 
 ---
 
