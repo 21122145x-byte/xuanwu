@@ -8,6 +8,7 @@
 
 - 这是**接口页**，不是正文承载页。
 - 团队知识库项目文件夹只放**正式定稿 / 当前有效版本**。
+- 空目录已清理，避免假结构占位。
 - 草稿、笔记、思考文档、调研过程稿统一回到旺财 KB。
 
 ## 项目全链路导航
@@ -24,8 +25,6 @@
 
 ### [01-Story/](01-Story)
 - [Chapters/](01-Story/Chapters)
-- [Characters/](01-Story/Characters)
-- [Worldbuilding/](01-Story/Worldbuilding)
 - [Outline.md](01-Story/Outline.md)
 - [盐火预言-世界框架-v1.md](01-Story/盐火预言-世界框架-v1.md)
   - [Chapter-01.md](01-Story/Chapters/Chapter-01.md)
@@ -34,8 +33,6 @@
 
 ### [02-Process/](02-Process)
 - [Collaboration/](02-Process/Collaboration)
-- [Feedback/](02-Process/Feedback)
-- [Revisions/](02-Process/Revisions)
 - [SaltFire-项目开展-SOP-v0.1.md](02-Process/SaltFire-项目开展-SOP-v0.1.md)
 - [Text-Review-Checklist.md](02-Process/Text-Review-Checklist.md)
 - [盐火预言-第一卷骨架-v1.md](02-Process/盐火预言-第一卷骨架-v1.md)
@@ -45,15 +42,9 @@
 - [黎照-主角卡-v1.md](03-Characters/黎照-主角卡-v1.md)
 
 ### [03-Reference/](03-Reference)
-- [Competitors/](03-Reference/Competitors)
-- [Research/](03-Reference/Research)
+- （当前为空）
 
 ### [04-Output/](04-Output)
-- [Blinded-Tests/](04-Output/Blinded-Tests)
-- [Drafts/](04-Output/Drafts)
-- [Final/](04-Output/Final)
-
-### [04-Research/](04-Research)
 - （当前为空）
 
 ---
