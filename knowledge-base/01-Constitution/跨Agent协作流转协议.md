@@ -1,3 +1,10 @@
+---
+aliases:
+  - 跨Agent协作流转协议_v1_2026-04-01
+formal_original_name: 跨Agent协作流转协议_v1_2026-04-01.md
+stable_entry: true
+---
+
 [HANDOFF]
 📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转协议.md
 🎯 What: 为团队当前暴露出的“写完后无法正式进入另一个 Agent 的审计 / 协作链”问题，起草并修订一份跨 Agent 协作流转协议，覆盖任务触发、协作分派、接单确认、执行回传、交接频道规则、系统默认适用、打回与熔断升级。

@@ -1,3 +1,10 @@
+---
+aliases:
+  - 跨Agent协作流转执行卡_v1_2026-04-02
+formal_original_name: 跨Agent协作流转执行卡_v1_2026-04-02.md
+stable_entry: true
+---
+
 [HANDOFF]
 📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转执行卡.md
 🎯 What: 将《跨Agent协作流转执行卡》补入“末尾 @ 交接人”规则，并将完整版协议链接移到文末，改成显式升级阅读提示。

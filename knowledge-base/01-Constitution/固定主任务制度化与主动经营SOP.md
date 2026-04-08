@@ -1,3 +1,10 @@
+---
+aliases:
+  - 固定主任务制度化与主动经营SOP_v1_2026-04-01
+formal_original_name: 固定主任务制度化与主动经营SOP_v1_2026-04-01.md
+stable_entry: true
+---
+
 [HANDOFF]
 📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/固定主任务制度化与主动经营SOP.md
 🎯 What: 在原 v1.1 基础上补入执行责任与推进位、异常升级链，并把第 8 步改成周/月巡检，形成更适合批量落位的团队级元 SOP。
