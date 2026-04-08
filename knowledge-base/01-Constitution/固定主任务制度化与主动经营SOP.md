@@ -1,5 +1,5 @@
 [HANDOFF]
-📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/固定主任务制度化与主动经营SOP_v1_2026-04-01.md
+📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/固定主任务制度化与主动经营SOP.md
 🎯 What: 在原 v1.1 基础上补入执行责任与推进位、异常升级链，并把第 8 步改成周/月巡检，形成更适合批量落位的团队级元 SOP。
 🔍 How to verify: 检查文档是否新增：1）执行责任与推进位；2）异常升级链；3）第 8 步是否改为周级/月底巡检；并确认其余 8 步结构、提醒机制与当前评估仍保留。
 ⚠️ Known Issues: 本文仍是团队级元 SOP，不替代各 Agent 的专属主任务 skill / SOP；执行效果仍需通过 1–2 个主任务试跑后继续回修。
@@ -9,7 +9,7 @@
 
 - 日期：2026-04-01
 - 状态：v1.1 / 团队级元 SOP
-- 上位引用：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/团队协作宪法与治理总纲_v1_2026-03-31.md`
+- 上位引用：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/团队协作宪法与治理总纲.md`
 - 适用范围：团队全体 Agent 的固定主任务
 
 ---
@@ -143,7 +143,7 @@
 
 - 对于需要准时触发、周期固定、可独立执行的动作，默认优先使用 `cron`。
 - 对于需要轻量巡检、状态确认、失败补漏、知识沉淀与计划提醒的动作，默认通过 `heartbeat` 承担。
-- 若固定主任务涉及跨 Agent 正式交接、审计提交或回传，默认同时受《跨Agent协作流转协议_v1_2026-04-01.md》约束。
+- 若固定主任务涉及跨 Agent 正式交接、审计提交或回传，默认同时受《跨Agent协作流转协议.md》约束。
 - 每个主任务都必须明确：
   - 哪些动作由 `cron` 触发
   - 哪些状态由 `heartbeat` 检查

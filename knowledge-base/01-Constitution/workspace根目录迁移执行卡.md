@@ -1,5 +1,5 @@
 [HANDOFF]
-📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/workspace根目录迁移执行卡_v1_2026-04-06.md
+📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/workspace根目录迁移执行卡.md
 🎯 What: 将《workspace根目录清理规则 v1》进一步推进为可执行的一线迁移卡，明确根目录清理时的判断顺序、迁移优先级、推荐去向、误迁防护和执行节奏，供后续各 agent workspace 逐步收口。
 🔍 How to verify: 检查文档是否明确包含：1）迁移前检查；2）允许保留项；3）必须迁出项；4）推荐迁移去向；5）误迁防护；6）执行节奏与升级条件。
 ⚠️ Known Issues: 当前为 v1 执行卡，尚未逐个 workspace 完成实迁；不同 agent 的历史残留、项目结构、知识库成熟度不同，仍需按 observe / suggest / maintain 节奏分步落地。

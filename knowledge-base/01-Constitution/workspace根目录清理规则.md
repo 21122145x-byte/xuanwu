@@ -1,5 +1,5 @@
 [HANDOFF]
-📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/workspace根目录清理规则_v1_2026-04-06.md
+📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/workspace根目录清理规则.md
 🎯 What: 将团队各 agent workspace 根目录应保持轻量、清晰、可维护的要求，压成一张正式规则卡，明确哪些文件可留在根目录、哪些应移走、哪些目录属于正式承载层，以及后续周期性清理的执行口径。
 🔍 How to verify: 检查文档是否明确包含：1）workspace 根目录允许保留项；2）禁止长期堆放项；3）推荐迁移去向；4）清理优先级；5）与知识库、项目目录、临时区的边界关系。
 ⚠️ Known Issues: 当前为 v1 规则卡，尚未等同于各 workspace 已完成清理迁移；不同 agent 的历史残留与项目结构差异仍需后续逐个收口。

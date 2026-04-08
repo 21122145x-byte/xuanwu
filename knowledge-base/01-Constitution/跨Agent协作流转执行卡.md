@@ -1,5 +1,5 @@
 [HANDOFF]
-📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转执行卡_v1_2026-04-02.md
+📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转执行卡.md
 🎯 What: 将《跨Agent协作流转执行卡》补入“末尾 @ 交接人”规则，并将完整版协议链接移到文末，改成显式升级阅读提示。
 🔍 How to verify: 检查文档是否包含：团队 Agent Discord ID、两个频道、正式触发方式、5 字段交接格式、【收到】回执规则、【任务完成】回传规则、打回规则、重提规则，以及文末的正式协议升级阅读提示。
 ⚠️ Known Issues: 本卡仍是执行卡，不替代完整版《跨Agent协作流转协议》；它只服务于一线执行，不承担完整制度解释。
@@ -104,4 +104,4 @@
 ---
 
 当《跨Agent协作流转执行卡》无法支持当下任务时，请阅读正式协议：
-`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转协议_v1_2026-04-01.md`
+`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转协议.md`

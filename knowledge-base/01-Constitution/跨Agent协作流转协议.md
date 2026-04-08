@@ -1,5 +1,5 @@
 [HANDOFF]
-📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转协议_v1_2026-04-01.md
+📍 Where: /Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转协议.md
 🎯 What: 为团队当前暴露出的“写完后无法正式进入另一个 Agent 的审计 / 协作链”问题，起草并修订一份跨 Agent 协作流转协议，覆盖任务触发、协作分派、接单确认、执行回传、交接频道规则、系统默认适用、打回与熔断升级。
 🔍 How to verify: 检查文档是否至少包含：适用环境、具体 Discord 频道分工、触发条件、角色定义、固定格式、交接内容规则、状态可观测规则、硬规则、超时推进、熔断与升级、系统加载与默认适用规则。
 ⚠️ Known Issues: 本稿是 v1 协议，优先解决“怎么传、怎么接、怎么回、怎么避免空转”；完整质量验收标准仍需与审计 / 验收协议继续衔接。

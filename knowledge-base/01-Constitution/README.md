@@ -23,16 +23,16 @@
 ## 当前制度主线导航
 
 ### 1. 团队总纲
-- [[01-Constitution/团队协作宪法与治理总纲_v1_2026-03-31]]
+- [[01-Constitution/团队协作宪法与治理总纲]]
 
 ### 2. 固定主任务制度化
-- [[01-Constitution/固定主任务制度化与主动经营SOP_v1_2026-04-01]]
-- [[01-Constitution/固定主任务制度化验收口径_v1_2026-04-01]]
-- [[01-Constitution/固定主任务卡模板_v1_2026-04-01]]
+- [[01-Constitution/固定主任务制度化与主动经营SOP]]
+- [[01-Constitution/固定主任务制度化验收口径]]
+- [[01-Constitution/固定主任务卡模板]]
 
 ### 3. 跨 Agent 协作
-- [[01-Constitution/跨Agent协作流转协议_v1_2026-04-01]]
-- [[01-Constitution/跨Agent协作流转执行卡_v1_2026-04-02]]
+- [[01-Constitution/跨Agent协作流转协议]]
+- [[01-Constitution/跨Agent协作流转执行卡]]
 
 ### 4. Spawn 机制主线
 - [[01-Constitution/Spawn-README]]
@@ -53,11 +53,11 @@
 - [[01-Constitution/一致性治理原则正文草案_v1_2026-04-04]]
 - [[01-Constitution/2026-04-04-一致性治理原则-离自动化还差什么-建议文档-v1]]
 - [[01-Constitution/第一批适合纳入一致性治理法的宪法条目清单_v1_2026-04-04]]
-- [[01-Constitution/团队文档语言与术语口径_v1_2026-04-03]]
-- [[01-Constitution/团队知识库根命名与项目边界统一建议卡_v1_2026-04-06]]
-- [[01-Constitution/workspace根目录清理规则_v1_2026-04-06]]
-- [[01-Constitution/workspace根目录迁移执行卡_v1_2026-04-06]]
-- [[01-Constitution/富贵财经自动化链路与评估审计机制_v1_2026-04-03]]
+- [[01-Constitution/团队文档语言与术语口径]]
+- [[01-Constitution/团队知识库根命名与项目边界统一建议卡]]
+- [[01-Constitution/workspace根目录清理规则]]
+- [[01-Constitution/workspace根目录迁移执行卡]]
+- [[01-Constitution/富贵财经自动化链路与评估审计机制]]
 - [[01-Constitution/KB自动检查记录模板]]（个人知识库维护检查记录模板，适用于各 Agent 成员定期自检）
 
 ---
