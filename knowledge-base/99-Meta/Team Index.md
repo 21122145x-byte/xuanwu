@@ -135,9 +135,9 @@ knowledge-base/
 ### 元信息 / 维护
 - [[99-Meta/Knowledge-Base-Current-State]]
 - [[99-Meta/Maintenance-Rules]]
-- [[99-Meta/Knowledge-Base-巡检实施卡_v1_2026-04-02]]
+- [[99-Meta/Knowledge-Base-巡检实施卡]]
 - [[99-Meta/Knowledge-Base-第一轮巡检报告_v1_2026-04-02]]
-- [[99-Meta/Knowledge-Base-第二阶段收口清单_v1_2026-04-02]]
+- [[99-Meta/Knowledge-Base-第二阶段收口清单]]
 - [[99-Meta/Agent-Task-Tracking-System]]
 - [[99-Meta/Skill-Inventory]]
 - [[99-Meta/调度安排]]

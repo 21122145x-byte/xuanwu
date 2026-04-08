@@ -3,9 +3,9 @@
 - 日期：2026-04-02
 - 性质：真实巡检闭环首轮报告
 - 依据：
-  - `Knowledge-Base-巡检实施卡_v1_2026-04-02.md`
-  - `Knowledge-Base-命中项处理模板_v1_2026-04-02.md`
-  - `Knowledge-Base-收口汇报口径_v1_2026-04-02.md`
+  - `Knowledge-Base-巡检实施卡.md`
+  - `Knowledge-Base-命中项处理模板.md`
+  - `Knowledge-Base-收口汇报口径.md`
 
 ---
 
@@ -69,7 +69,7 @@
 - 不属于当前执行入口错误
 - 当前正式入口已改为团队知识库路径：
   - `01-Constitution/Spawn-README.md`
-  - `01-Constitution/团队协作宪法与治理总纲_v1_2026-03-31.md`
+  - `01-Constitution/团队协作宪法与治理总纲.md`
 
 因此本项暂定为：
 - **低风险历史痕迹**
