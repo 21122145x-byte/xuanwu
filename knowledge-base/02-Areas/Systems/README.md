@@ -23,8 +23,8 @@
 
 ### 1. Writer-Agent 体系
 代表文件：
-- [[02-Areas/Systems/Writer-Agent-MemOS-接入设计-v1]]
-- [[02-Areas/Systems/Writer-Agent-Memory-Schema-v1]]
+- [[02-Areas/Systems/Writer-Agent-MemOS-接入设计]]
+- [[02-Areas/Systems/Writer-Agent-Memory-Schema]]
 - [[02-Areas/Systems/成长型-Writer-Agent-8周训练规划]]
 - `Writer-Agent-第1周执行清单.md` ~ `Writer-Agent-第6周执行清单.md`
 
@@ -34,17 +34,17 @@
 ### 2. Memory / MemOS 体系
 代表文件：
 - [[02-Areas/Systems/Memory-Evolution-System]]
-- [[02-Areas/Systems/Writer-Agent-MemOS-接入设计-v1]]
-- [[02-Areas/Systems/Writer-Agent-Memory-Schema-v1]]
+- [[02-Areas/Systems/Writer-Agent-MemOS-接入设计]]
+- [[02-Areas/Systems/Writer-Agent-Memory-Schema]]
 
 说明：
 - 这一组偏记忆架构、接入设计、长期演化方法
 
 ### 3. 图像提示词体系
 代表文件：
-- [[02-Areas/Systems/图像提示词库-v1]]
-- [[02-Areas/Systems/图像提示词-参考图反推与迭代优化-SOP-v1]]
-- [[02-Areas/Systems/图像提示词-参考图反推与迭代优化-案例附录-v1]]
+- [[02-Areas/Systems/图像提示词库]]
+- [[02-Areas/Systems/图像提示词-参考图反推与迭代优化-SOP]]
+- [[02-Areas/Systems/图像提示词-参考图反推与迭代优化-案例附录]]
 
 说明：
 - 这一组主要承载图像提示词、参考图反推与迭代优化方法
