@@ -28,7 +28,7 @@ spawn 前先判断三件事：
 
 #### 注入给 subagent 的 AGENTS 模板
 使用：
-- `subagent_AGENTS_执行者版_v1_2026-04-02.md`
+- `subagent_AGENTS_执行者版.md`
 
 #### 搭配的子任务卡应明确
 - 这次只重写哪一段
@@ -52,7 +52,7 @@ spawn 前先判断三件事：
 
 #### 注入给 subagent 的 AGENTS 模板
 使用：
-- `subagent_AGENTS_评估者版_v1_2026-04-02.md`
+- `subagent_AGENTS_评估者版.md`
 
 #### 搭配的子任务卡应明确
 - 评估对象是哪份文档
@@ -74,7 +74,7 @@ spawn 前先判断三件事：
 
 #### 注入给 subagent 的 AGENTS 模板
 使用：
-- `subagent_AGENTS_执行者版_v1_2026-04-02.md`
+- `subagent_AGENTS_执行者版.md`
 
 #### 如果任务边界很短
 可以只加一个轻量任务说明：
@@ -97,7 +97,7 @@ spawn 前先判断三件事：
 
 #### 注入给 subagent 的 AGENTS 模板
 使用：
-- `subagent_AGENTS_执行者版_v1_2026-04-02.md`
+- `subagent_AGENTS_执行者版.md`
 
 #### 搭配的子任务卡应明确
 - 本次只改哪一节
@@ -121,7 +121,7 @@ spawn 前先判断三件事：
 
 #### 注入给 subagent 的 AGENTS 模板
 使用：
-- `subagent_AGENTS_评估者版_v1_2026-04-02.md`
+- `subagent_AGENTS_评估者版.md`
 
 #### 判断规则
 - 若只是快速复核 → 轻量任务说明即可

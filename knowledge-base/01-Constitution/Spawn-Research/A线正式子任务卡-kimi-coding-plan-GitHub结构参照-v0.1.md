@@ -43,7 +43,7 @@
 
 ## 输入材料
 1. `spawn-mechanism-overview-fragment-v0.1.md`
-2. `spawn-mechanism-external-calibration-research-outline-v0.1.md`
+2. `spawn-mechanism-external-calibration-research-outline.md`
 3. 主任务卡：`主任务卡-Spawn机制外部校准调研-第一轮-GitHub收窄版-v0.1.md`
 
 ---

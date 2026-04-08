@@ -25,8 +25,8 @@ knowledge-base/
 
 ### 制度 / 治理
 - [[01-Constitution/README]]
-- [[01-Constitution/团队协作宪法与治理总纲_v1_2026-03-31]]
-- [[01-Constitution/跨Agent协作流转执行卡_v1_2026-04-02]]
+- [[01-Constitution/团队协作宪法与治理总纲]]
+- [[01-Constitution/跨Agent协作流转执行卡]]
 
 #### 补充收录（2026-04-07）
 
@@ -36,22 +36,22 @@ knowledge-base/
 
 **治理与闭环**
 - [[01-Constitution/团队宪法与Spawn机制闭环复盘_v1_2026-04-02]]
-- [[01-Constitution/团队文档语言与术语口径_v1_2026-04-03]]
+- [[01-Constitution/团队文档语言与术语口径]]
 - [[01-Constitution/一致性治理原则正文草案_v1_2026-04-04]]
 - [[01-Constitution/2026-04-04-一致性治理原则-离自动化还差什么-建议文档-v1]]
-- [[01-Constitution/跨Agent协作流转协议_v1_2026-04-01]]
+- [[01-Constitution/跨Agent协作流转协议]]
 - [[01-Constitution/第一批适合纳入一致性治理法的宪法条目清单_v1_2026-04-04]]
 
 **workspace 管理**
-- [[01-Constitution/workspace根目录清理规则_v1_2026-04-06]]
-- [[01-Constitution/workspace根目录迁移执行卡_v1_2026-04-06]]
-- [[01-Constitution/团队知识库根命名与项目边界统一建议卡_v1_2026-04-06]]
-- [[01-Constitution/富贵财经自动化链路与评估审计机制_v1_2026-04-03]]
+- [[01-Constitution/workspace根目录清理规则]]
+- [[01-Constitution/workspace根目录迁移执行卡]]
+- [[01-Constitution/团队知识库根命名与项目边界统一建议卡]]
+- [[01-Constitution/富贵财经自动化链路与评估审计机制]]
 
 **固定主任务 SOP / 模板**
-- [[01-Constitution/固定主任务制度化与主动经营SOP_v1_2026-04-01]]
-- [[01-Constitution/固定主任务制度化验收口径_v1_2026-04-01]]
-- [[01-Constitution/固定主任务卡模板_v1_2026-04-01]]
+- [[01-Constitution/固定主任务制度化与主动经营SOP]]
+- [[01-Constitution/固定主任务制度化验收口径]]
+- [[01-Constitution/固定主任务卡模板]]
 
 **Spawn 补充件**
 - [[01-Constitution/给Curie的交接文档_Spawn机制目录维护与后续动作_v1_2026-04-02]]

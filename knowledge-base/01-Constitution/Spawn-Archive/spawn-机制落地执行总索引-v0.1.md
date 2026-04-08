@@ -41,7 +41,7 @@
 - 该进哪一档卡片
 
 #### 核心文档
-3. `subagent-spawn-decision-tree-v1.md`
+3. `subagent-spawn-decision-tree.md`
    - Spawn 决策树
    - 先判断要不要拆，再决定是否 spawn
 
@@ -111,7 +111,7 @@
 16. `anna-spawn-pilot-memos-ghost-context-v1.md`
     - Anna 正式 spawn 试跑说明
 
-17. `spawn-mechanism-external-calibration-research-outline-v0.1.md`
+17. `spawn-mechanism-external-calibration-research-outline.md`
     - 外部校准调研提纲
 
 18. `spawn-pilot-token-control-guide-v1-draft.md`
@@ -153,7 +153,7 @@
 ---
 
 ### 路径 2：准备发正式任务前
-1. `subagent-spawn-decision-tree-v1.md`
+1. `subagent-spawn-decision-tree.md`
 2. `resource-gate-最小字段清单-v0.1.md`
 3. `task-rating-to-card-version-mapping-v1.md`
 4. `三档卡片触发条件重写-v0.1.md`
@@ -178,7 +178,7 @@
 
 ### 已成型（当前可直接用）
 - `spawn-mechanism-overview-fragment-v0.2.md`
-- `subagent-spawn-decision-tree-v1.md`
+- `subagent-spawn-decision-tree.md`
 - `resource-gate-最小字段清单-v0.1.md`
 - `subtask-card-standard-v1.md`
 - `task-rating-to-card-version-mapping-v1.md`
@@ -188,7 +188,7 @@
 ### 草案 / 待试用
 - `progress-ledger-轻量草案-v0.1.md`
 - `spawn-pilot-token-control-guide-v1-draft.md`
-- `spawn-mechanism-external-calibration-research-outline-v0.1.md`
+- `spawn-mechanism-external-calibration-research-outline.md`
 
 ### 样本 / 参考执行材料
 - 各类主任务卡 / 子任务卡 / 预检卡
@@ -205,7 +205,7 @@
 
 如果你只想知道“现在发一个正式任务最短该怎么走”，按下面来：
 
-1. 先看：`subagent-spawn-decision-tree-v1.md`
+1. 先看：`subagent-spawn-decision-tree.md`
 2. 再过：`resource-gate-最小字段清单-v0.1.md`
 3. 决定任务等级：`task-rating-to-card-version-mapping-v1.md`
 4. 决定卡片版本：`三档卡片触发条件重写-v0.1.md`

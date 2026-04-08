@@ -22,11 +22,11 @@
 目录：`01-Constitution/Spawn-SOP/`
 
 当前执行面与决策辅助文件：
-- `Spawn-SOP/Spawn-项目执行全流程v0.1.md`
-- `Spawn-SOP/subagent-spawn-decision-tree-v1.md`
-- `Spawn-SOP/策划者需求拆解与Spawn方案设计-SOP-v0.1.md`
+- `Spawn-SOP/Spawn-项目执行全流程.md`
+- `Spawn-SOP/subagent-spawn-decision-tree.md`
+- `Spawn-SOP/策划者需求拆解与Spawn方案设计-SOP.md`
 - `Spawn-SOP/Spawn机制嵌入团队AGENTS_SOUL改造清单_联邦版.md`
-- `Spawn-SOP/subagent_AGENTS灌注规则_v1_2026-04-02.md`
+- `Spawn-SOP/subagent_AGENTS灌注规则.md`
 
 这些文件属于：
 - 团队执行面
@@ -39,11 +39,11 @@
 目录：`01-Constitution/Spawn-Templates/`
 
 ### 3.1 通用模板
-- `Spawn-Templates/Spawn主控收口模板_V0.md`
-- `Spawn-Templates/Spawn子任务卡模板_V0.md`
-- `Spawn-Templates/subagent_AGENTS标准模板_v1_2026-04-02.md`
-- `Spawn-Templates/subagent_AGENTS_执行者版_v1_2026-04-02.md`
-- `Spawn-Templates/subagent_AGENTS_评估者版_v1_2026-04-02.md`
+- `Spawn-Templates/Spawn主控收口模板.md`
+- `Spawn-Templates/Spawn子任务卡模板.md`
+- `Spawn-Templates/subagent_AGENTS标准模板.md`
+- `Spawn-Templates/subagent_AGENTS_执行者版.md`
+- `Spawn-Templates/subagent_AGENTS_评估者版.md`
 
 ### 3.2 场景样例 / 灌注样本
 - `Spawn-Templates/subagent_AGENTS灌注样例_旺财富贵_v1_2026-04-02.md`
@@ -76,7 +76,7 @@
 
 当前复盘与审计材料包括：
 - `Spawn-Retros/Spawn 机制第一阶段复盘-v0.1.md`
-- `Spawn-Retros/Spawn 机制第一阶段复盘-v0.2.md`
+- `Spawn-Retros/Spawn 机制第一阶段复盘.md`
 - `Spawn-Retros/anna-spawn-pilot-memos-ghost-context-v1.md`
 - `Spawn-Retros/spawn-pilot-token-control-guide-v1-draft.md`
 - `Spawn-Retros/subagent_AGENTS模板链审计意见_v1_2026-04-02.md`

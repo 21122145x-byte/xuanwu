@@ -57,7 +57,7 @@
 
 ## 输入材料
 1. `spawn-mechanism-overview-fragment-v0.1.md`
-2. `spawn-mechanism-external-calibration-research-outline-v0.1.md`
+2. `spawn-mechanism-external-calibration-research-outline.md`
 3. A/B 两线预检结论
 4. 当前工具约束：只用 `gh` 查 GitHub
 
