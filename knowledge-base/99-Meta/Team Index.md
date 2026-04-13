@@ -132,6 +132,12 @@ knowledge-base/
 - [[30-evergreen/README]]
 - [[30-evergreen/Current-Status]]
 
+### 机制试跑 / Inspection 专题（2026-04-13 补挂）
+- [[04-Inspection/2026-04-11-半自动任务机制链导航页_v1|2026-04-11 半自动任务机制链导航页 v1]]
+  - 作用：半自动任务协议、模板、memory 主线试跑、观察记录与修订件的统一入口
+- [[04-Inspection/2026-04-11-半自动任务执行协议_v1|2026-04-11-半自动任务执行协议_v1]]
+  - 作用：现行半自动任务总协议 / 当前主归属位
+
 ### 元信息 / 维护
 - [[99-Meta/Knowledge-Base-Current-State]]
 - [[99-Meta/Maintenance-Rules]]

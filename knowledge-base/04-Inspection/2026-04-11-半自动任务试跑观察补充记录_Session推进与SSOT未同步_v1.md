@@ -8,17 +8,13 @@
 - 对应试跑任务：Curie memory mainline semi-auto pilot
 
 ## 文档挂载
-- 上位文档：
-  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务执行协议_v1.md`
-- 同级关联：
-  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务试跑观察记录_Curie-memory-mainline_v1.md`
-  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务执行协议_v1.1_修订清单.md`
-- 外部状态来源：
-  - `/Users/xiaojingbo/.openclaw/workspace-curie/knowledge_base/00-Inbox/2026-04-11-memory-mainline-package-pending-anna/2026-04-11-memory-semi-auto-pilot-status-card_v1.md`
-  - `/Users/xiaojingbo/.openclaw/workspace-curie/knowledge_base/00-Inbox/2026-04-11-memory-mainline-package-pending-anna/2026-04-11-memory-semi-auto-pilot-board_v1.md`
-- 会话观察来源：
-  - `agent:curie:main`
-  - `agent:anna:main`
+- 上位文档：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务执行协议_v1.md`
+- 同级关联：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Curie-memory主线半自动试跑状态卡_v1.md`；`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Anna-审计承接_Curie-memory主线半自动试跑_v1.md`；`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务试跑观察记录_Curie-memory-mainline_v1.md`
+- 下位文档：第二阶段观察件，无下位文档；后续收束请转向修订清单或新的观察记录
+- 外部状态来源：`/Users/xiaojingbo/.openclaw/workspace-curie/knowledge_base/00-Inbox/2026-04-11-memory-mainline-package-pending-anna/2026-04-11-memory-semi-auto-pilot-status-card_v1.md`；`/Users/xiaojingbo/.openclaw/workspace-curie/knowledge_base/00-Inbox/2026-04-11-memory-mainline-package-pending-anna/2026-04-11-memory-semi-auto-pilot-board_v1.md`
+- 所属主线：半自动任务机制链 / Curie memory 主线真实试跑 / 第二阶段观察（SSOT 分叉）
+- 主责：粉雪
+- 会话观察来源：`agent:curie:main`；`agent:anna:main`
 
 ---
 

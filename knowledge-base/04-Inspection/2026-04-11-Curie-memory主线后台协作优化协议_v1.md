@@ -1,5 +1,17 @@
 # Curie memory 主线后台协作优化协议 v1
 
+## 状态说明（后补）
+
+- 本文为 memory 主线场景下的早期专用优化协议。
+- 自 `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务执行协议_v1.md` 形成后，本文的核心规则已被总协议吸收。
+- 当前主归属位应视为：`2026-04-11-半自动任务执行协议_v1.md`。
+- 本文当前保留价值主要是：
+  - 作为 memory 主线失败链的场景化前身件
+  - 为缺口卡 / 试跑链提供历史背景
+- 如需执行当前制度，请优先以总协议及其下位模板为准，不再以本文作为现行主协议。
+
+---
+
 - 日期：2026-04-11
 - 主责：粉雪
 - 性质：优化协议 / 后台协作执行协议
@@ -8,7 +20,7 @@
 ## 文档挂载
 - 上位文档：/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/团队协作宪法与治理总纲.md；/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/跨Agent协作流转执行卡.md
 - 同级关联：/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Curie-memory主线后台协作机制缺口卡_v1.md
-- 下位文档：待补：后台协作状态模板；待补：Curie memory 主线状态看板模板；待补：Anna 审计承接模板
+- 下位文档：历史口径保留；现行模板请改看：/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务阶段门状态模板_v1.md；/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务看板模板_v1.md；/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Anna-审计承接模板_v1.md
 - 所属主线：Curie memory 主线后台协作 / 多 Agent 协作优化
 
 ---

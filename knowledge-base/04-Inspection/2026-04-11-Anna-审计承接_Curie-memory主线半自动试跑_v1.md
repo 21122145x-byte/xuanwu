@@ -1,5 +1,13 @@
 # Audit Receipt
 
+## 文档挂载
+- 上位文档：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Anna-审计承接模板_v1.md`；`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-半自动任务执行协议_v1.md`
+- 同级关联：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Curie-memory主线半自动试跑状态卡_v1.md`；`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-11-Curie-memory主线后台协作机制缺口卡_v1.md`
+- 下位文档：当前无；本件为当前试跑链的正式审计承接件
+- 所属主线：半自动任务机制链 / Curie memory 主线真实试跑 / 审计承接段
+- 主责：Anna
+
+
 Task: Curie memory 主线方案（旧失败链复跑）
 status: audit-in-progress
 owner: anna
