@@ -15,6 +15,11 @@
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-12-单一入口式multi-agent协作框架-一级骨架_v0.1.md`
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-12-今日推进计划表_骨架完整优先_v1.md`
 - 下位文档：
+  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-15-现役能力清单_v0.2.md`
+  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-15-全局机制与skill化判断表_v0.1.md`
+  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-15-现役能力清单_v0.1.md`
+  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-14-注册层整理表_v0.1.md`
+  - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-14-单一入口式multi-agent协作框架_缺口表_v0.1.md`
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-13-最小单元模板_v0.1.md`
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-13-阶段门模板_v0.1.md`
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/2026-04-13-停损规则卡_v0.1.md`

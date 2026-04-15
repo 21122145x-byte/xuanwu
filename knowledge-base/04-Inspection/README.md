@@ -118,3 +118,112 @@
   - 作用：第二阶段观察截面（会话推进与 SSOT 分叉证据）
 - [[2026-04-11-半自动任务执行协议_v1.1_修订清单.md|2026-04-11-半自动任务执行协议_v1.1_修订清单]]
   - 作用：v1 后续修订入口 / SSOT 等问题收束位
+
+
+## 2026-04-14 · 协作框架缺口收口（手动补挂）
+
+- [[2026-04-14-单一入口式multi-agent协作框架_缺口表_v0.1.md|2026-04-14-单一入口式multi-agent协作框架_缺口表_v0.1.md]]
+  - 作用：按主文单元顺序收当前大项缺口，作为后续分段细化入口
+
+- [[2026-04-14-注册层整理表_v0.1.md|2026-04-14-注册层整理表_v0.1.md]]
+  - 作用：按当前口径展开注册层，作为继续补实的入口
+
+
+## 2026-04-15 · 注册层细化（手动补挂）
+
+- [[2026-04-15-现役能力清单_v0.1.md|2026-04-15-现役能力清单_v0.1.md]]
+  - 作用：列出现阶段已可默认调用的现役能力，作为注册层第一张实表
+
+- [[2026-04-15-全局机制与skill化判断表_v0.1.md|2026-04-15-全局机制与skill化判断表_v0.1.md]]
+  - 作用：全局盘点机制与现有 skill，并判断哪些机制适合 skill 化
+
+- [[2026-04-15-现役能力清单_v0.2.md|2026-04-15-现役能力清单_v0.2.md]]
+  - 作用：只收机制标题，并标注完整 / 未完成
+
+- [[2026-04-15-机制与skill映射表_v0.1.md|2026-04-15-机制与skill映射表_v0.1.md]]
+  - 作用：标清机制与现有 skill 的对应关系，以及哪些只适合局部 skill 化
+
+- [[2026-04-15-skill候选拆解卡_handoff-checker_v0.1.md|2026-04-15-skill候选拆解卡_handoff-checker_v0.1.md]]
+  - 作用：第一张 skill 候选拆解卡，承接 handoff-checker
+- [[2026-04-15-handoff-checker_技能说明草案_v0.1.md|2026-04-15-handoff-checker_技能说明草案_v0.1.md]]
+  - 作用：明确 handoff-checker 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-handoff-checker_输入输出样例集_v0.1.md|2026-04-15-handoff-checker_输入输出样例集_v0.1.md]]
+  - 作用：给 handoff-checker 提供正反例，避免只会套空格式
+- [[2026-04-15-handoff-checker_试跑记录_v0.1.md|2026-04-15-handoff-checker_试跑记录_v0.1.md]]
+  - 作用：记录 handoff-checker 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_doc-mount-checker_v0.1.md|2026-04-15-skill候选拆解卡_doc-mount-checker_v0.1.md]]
+  - 作用：第二张 skill 候选拆解卡，承接 doc-mount-checker
+- [[2026-04-15-doc-mount-checker_技能说明草案_v0.1.md|2026-04-15-doc-mount-checker_技能说明草案_v0.1.md]]
+  - 作用：明确 doc-mount-checker 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-doc-mount-checker_输入输出样例集_v0.1.md|2026-04-15-doc-mount-checker_输入输出样例集_v0.1.md]]
+  - 作用：给 doc-mount-checker 提供正反例，避免只会机械补字段
+- [[2026-04-15-doc-mount-checker_试跑记录_v0.1.md|2026-04-15-doc-mount-checker_试跑记录_v0.1.md]]
+  - 作用：记录 doc-mount-checker 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_stage-gate-helper_v0.1.md|2026-04-15-skill候选拆解卡_stage-gate-helper_v0.1.md]]
+  - 作用：第三张 skill 候选拆解卡，承接 stage-gate-helper
+- [[2026-04-15-stage-gate-helper_技能说明草案_v0.1.md|2026-04-15-stage-gate-helper_技能说明草案_v0.1.md]]
+  - 作用：明确 stage-gate-helper 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-stage-gate-helper_输入输出样例集_v0.1.md|2026-04-15-stage-gate-helper_输入输出样例集_v0.1.md]]
+  - 作用：给 stage-gate-helper 提供正反例，避免只会机械补状态名
+- [[2026-04-15-stage-gate-helper_试跑记录_v0.1.md|2026-04-15-stage-gate-helper_试跑记录_v0.1.md]]
+  - 作用：记录 stage-gate-helper 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_cross-agent-handoff_v0.1.md|2026-04-15-skill候选拆解卡_cross-agent-handoff_v0.1.md]]
+  - 作用：第四张 skill 候选拆解卡，承接 cross-agent-handoff
+- [[2026-04-15-cross-agent-handoff_技能说明草案_v0.1.md|2026-04-15-cross-agent-handoff_技能说明草案_v0.1.md]]
+  - 作用：明确 cross-agent-handoff 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-cross-agent-handoff_输入输出样例集_v0.1.md|2026-04-15-cross-agent-handoff_输入输出样例集_v0.1.md]]
+  - 作用：给 cross-agent-handoff 提供正反例，避免只会套交接模板
+- [[2026-04-15-cross-agent-handoff_试跑记录_v0.1.md|2026-04-15-cross-agent-handoff_试跑记录_v0.1.md]]
+  - 作用：记录 cross-agent-handoff 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_default-start-checker_v0.1.md|2026-04-15-skill候选拆解卡_default-start-checker_v0.1.md]]
+  - 作用：第五张 skill 候选拆解卡，承接 default-start-checker
+- [[2026-04-15-default-start-checker_技能说明草案_v0.1.md|2026-04-15-default-start-checker_技能说明草案_v0.1.md]]
+  - 作用：明确 default-start-checker 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-default-start-checker_输入输出样例集_v0.1.md|2026-04-15-default-start-checker_输入输出样例集_v0.1.md]]
+  - 作用：给 default-start-checker 提供正反例，避免只会机械输出“先回总表”
+- [[2026-04-15-default-start-checker_试跑记录_v0.1.md|2026-04-15-default-start-checker_试跑记录_v0.1.md]]
+  - 作用：记录 default-start-checker 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_minimal-unit-builder_v0.1.md|2026-04-15-skill候选拆解卡_minimal-unit-builder_v0.1.md]]
+  - 作用：第六张 skill 候选拆解卡，承接 minimal-unit-builder
+- [[2026-04-15-minimal-unit-builder_技能说明草案_v0.1.md|2026-04-15-minimal-unit-builder_技能说明草案_v0.1.md]]
+  - 作用：明确 minimal-unit-builder 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-minimal-unit-builder_输入输出样例集_v0.1.md|2026-04-15-minimal-unit-builder_输入输出样例集_v0.1.md]]
+  - 作用：给 minimal-unit-builder 提供正反例，避免只会把厚问题换标题继续派发
+- [[2026-04-15-minimal-unit-builder_试跑记录_v0.1.md|2026-04-15-minimal-unit-builder_试跑记录_v0.1.md]]
+  - 作用：记录 minimal-unit-builder 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_registry-maintainer_v0.1.md|2026-04-15-skill候选拆解卡_registry-maintainer_v0.1.md]]
+  - 作用：第七张 skill 候选拆解卡，承接 registry-maintainer
+- [[2026-04-15-registry-maintainer_技能说明草案_v0.1.md|2026-04-15-registry-maintainer_技能说明草案_v0.1.md]]
+  - 作用：明确 registry-maintainer 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-registry-maintainer_输入输出样例集_v0.1.md|2026-04-15-registry-maintainer_输入输出样例集_v0.1.md]]
+  - 作用：给 registry-maintainer 提供正反例，避免只会机械把对象抄进表里
+- [[2026-04-15-registry-maintainer_试跑记录_v0.1.md|2026-04-15-registry-maintainer_试跑记录_v0.1.md]]
+  - 作用：记录 registry-maintainer 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_timeout-nudger_v0.1.md|2026-04-15-skill候选拆解卡_timeout-nudger_v0.1.md]]
+  - 作用：第八张 skill 候选拆解卡，承接 timeout-nudger
+- [[2026-04-15-timeout-nudger_技能说明草案_v0.1.md|2026-04-15-timeout-nudger_技能说明草案_v0.1.md]]
+  - 作用：明确 timeout-nudger 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-timeout-nudger_输入输出样例集_v0.1.md|2026-04-15-timeout-nudger_输入输出样例集_v0.1.md]]
+  - 作用：给 timeout-nudger 提供正反例，避免只会见时间久就催
+- [[2026-04-15-timeout-nudger_试跑记录_v0.1.md|2026-04-15-timeout-nudger_试跑记录_v0.1.md]]
+  - 作用：记录 timeout-nudger 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_main-artifact-judge-helper_v0.1.md|2026-04-15-skill候选拆解卡_main-artifact-judge-helper_v0.1.md]]
+  - 作用：第九张 skill 候选拆解卡，承接 main-artifact-judge-helper
+- [[2026-04-15-main-artifact-judge-helper_技能说明草案_v0.1.md|2026-04-15-main-artifact-judge-helper_技能说明草案_v0.1.md]]
+  - 作用：明确 main-artifact-judge-helper 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-main-artifact-judge-helper_输入输出样例集_v0.1.md|2026-04-15-main-artifact-judge-helper_输入输出样例集_v0.1.md]]
+  - 作用：给 main-artifact-judge-helper 提供正反例，避免只会把最长文件当主产物
+- [[2026-04-15-main-artifact-judge-helper_试跑记录_v0.1.md|2026-04-15-main-artifact-judge-helper_试跑记录_v0.1.md]]
+  - 作用：记录 main-artifact-judge-helper 的真实样本试跑结果
+- [[2026-04-15-skill候选拆解卡_revision-needed-router_v0.1.md|2026-04-15-skill候选拆解卡_revision-needed-router_v0.1.md]]
+  - 作用：第十张 skill 候选拆解卡，承接 revision-needed-router
+- [[2026-04-15-revision-needed-router_技能说明草案_v0.1.md|2026-04-15-revision-needed-router_技能说明草案_v0.1.md]]
+  - 作用：明确 revision-needed-router 的触发、边界、输入输出与禁止事项
+- [[2026-04-15-revision-needed-router_输入输出样例集_v0.1.md|2026-04-15-revision-needed-router_输入输出样例集_v0.1.md]]
+  - 作用：给 revision-needed-router 提供正反例，避免只会看到 revision-needed 就简单回一层
+- [[2026-04-15-revision-needed-router_试跑记录_v0.1.md|2026-04-15-revision-needed-router_试跑记录_v0.1.md]]
+  - 作用：记录 revision-needed-router 的真实样本试跑结果
+- [[2026-04-15-Discord频道100+条信息事件_短RCA_v0.1.md|2026-04-15-Discord频道100+条信息事件_短RCA_v0.1.md]]
+  - 作用：记录本次多 Agent 越界发言 + 长回复碎片化发送事件的短 RCA
+- [[2026-04-15-三张候选skill当前进度检查表_v0.1.md|2026-04-15-三张候选skill当前进度检查表_v0.1.md]]
+  - 作用：并排检查三张候选 skill 的当前完成度、风险与下一步推进顺序
