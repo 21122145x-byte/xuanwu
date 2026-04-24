@@ -1,8 +1,9 @@
 # Program 与 runtime pipeline 接口卡
-## v0.1
+## 当前稳定入口（现由 v0.1 承接）
 
 - **类型**：接口卡 / 配套卡
 - **状态**：draft
+- **稳定入口说明**：本文件为当前稳定名入口，现阶段由对应 v0.1 版本实体承接内容；后续升级优先更新本入口。
 - **用途**：用于说明 Program 与 runtime pipeline 之间的分工、接口、回传关系，以及 runtime 如何服务任务运行。
 - **适用范围**：runtime pipeline 设计、任务接入 runtime、Project Plan 对接、SOP 与执行机制分流
 - **上位依据**：`Program-团队协作运行主协议.md`
