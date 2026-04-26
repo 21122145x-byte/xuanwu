@@ -2,7 +2,7 @@
 
 - 日期：2026-04-25
 - 性质：验证记录 / 收口件
-- 验证对象：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/团队文档治理与Workspace结构总则-v0.1.md`
+- 验证对象：`/Users/xiaojingbo/.openclaw/workspace/knowledge-base/01-Constitution/团队Workspace结构总则.md`
 - 验证依据：
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/团队治理体系/团队协作宪法与治理总纲.md`
   - `/Users/xiaojingbo/.openclaw/workspace/knowledge-base/04-Inspection/团队治理体系/Program-团队协作运行主协议.md`
